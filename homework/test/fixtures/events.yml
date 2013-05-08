@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  happening_on: 2013-05-08 15:57:21
+  venue_id: 1
+
+two:
+  title: MyString
+  happening_on: 2013-05-08 15:57:21
+  venue_id: 1
